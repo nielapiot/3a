@@ -89,3 +89,4 @@ C:\Users\admin\Documents\2.1-stoper-4ta-2-igor-n\3a\minutnik\obj\Debug\net10.0\r
 C:\Users\admin\Documents\2.1-stoper-4ta-2-igor-n\3a\minutnik\obj\Debug\net10.0\minutnik.pdb
 C:\Users\admin\Documents\2.1-stoper-4ta-2-igor-n\3a\minutnik\obj\Debug\net10.0\minutnik.genruntimeconfig.cache
 C:\Users\admin\Documents\2.1-stoper-4ta-2-igor-n\3a\minutnik\obj\Debug\net10.0\ref\minutnik.dll
+C:\Users\admin\Documents\2.1-stoper-4ta-2-igor-n\3a\minutnik\obj\Debug\net10.0\minutnik.sourcelink.json
